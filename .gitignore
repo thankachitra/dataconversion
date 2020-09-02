@@ -1,0 +1,11 @@
+#Eclipse
+/bin
+/.classpath
+.project
+/.settings
+/target
+#Mac
+# Mac
+.DS_Store
+#not sure
+hf.fo
